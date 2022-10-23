@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/gustavohenriquess/talks",
   "author": "Gustavo Henrique <gustavo._henrique@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^17.1.2",
+    "@commitlint/config-conventional": "^17.1.0"
+  }
 }
