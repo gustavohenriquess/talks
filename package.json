@@ -1,0 +1,8 @@
+{
+  "name": "talks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gustavohenriquess/talks",
+  "author": "Gustavo Henrique <gustavo._henrique@hotmail.com>",
+  "license": "MIT"
+}
