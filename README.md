@@ -1,3 +1,3 @@
 # Talks
 
-- [Conventional Commits](./docs/Git-Github.pptx)
+- [Conventional Commits](./docs/Git-Github.pdf)
