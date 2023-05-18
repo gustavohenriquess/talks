@@ -6,3 +6,4 @@
 
 - [Git e Github / Conventional Commits](./docs/Git-Github.pdf)
 - [Conventional Commits](./docs/Conventional%20Commits.pdf)
+- [Arquitetura de Software no Front-end Existe ?](./docs/Arquitetura%20de%20Software%20no%20Front-end%20Existe%20.pdf)
